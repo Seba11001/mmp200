@@ -1,0 +1,39 @@
+body{
+	margin:20px 15% 20px 15%;
+	background-color: #626f84;
+	color:#0d0d59;
+	font-family: "gill sans", arial, sans-serif;
+}
+a{
+	color: #000000;
+	font-weight:700;
+}
+h1, h2{
+	color:#cacdd1;
+}
+.clearfloatleft{
+	clear:left;
+}
+p{
+	line-height: 24px;
+}
+
+ul, ol{
+	background-color:#fff7e6;
+	padding:20px 20px 20px 40px;
+	margin-left: 0px;
+}
+ul{
+	list-style-type:circle;
+}
+ol{
+	list-style-type:lower-alpha;
+}
+dl{
+	background-color:#fff7e6;
+	padding:20px 20px 20px 40px;
+}
+dt{
+	font-weight: 600;
+	margin-top: 7px;
+}
