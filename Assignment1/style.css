@@ -54,10 +54,10 @@ dt{
 	margin-top: 7px;
 }
 a{
-	text-decoration: none
-	size:12px; 
-	color: black;
-}
+	text-decoration:  none;
+  font-weight:      bold;
+  color:            black;
+  } 
 h3{
 	size: 20px
 }
